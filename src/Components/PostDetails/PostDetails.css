@@ -1,0 +1,48 @@
+.post-details-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-content {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post-content h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.comments-section {
+  margin-top: 30px;
+}
+
+.comments-section h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.comment-item {
+  background-color: #f1f1f1;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.comment-item h5 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.comment-item p {
+  font-size: 16px;
+}
+
+.comment-item small {
+  font-size: 12px;
+  color: #666;
+}
